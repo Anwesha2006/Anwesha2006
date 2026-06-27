@@ -34,7 +34,6 @@ Committed to continuous growth through real-world project development, strengthe
 | **Backend & API Systems** | REST APIs, Authentication (JWT), Server Architecture |
 | **Database Architecture** | MongoDB, PostgreSQL, Data Persistence |
 | **Scalable Systems** | System Design, Performance Optimization |
-| **Web3 & Smart Contracts** | Solidity, Ethereum |
 | **Tools & Workflow** | Git, Postman, API Integration |
 
 </div>
