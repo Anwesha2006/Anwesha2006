@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anwesha Baidya</h1>
 
-<h3 align="center">Full Stack Development | Web3 Exploration | Scalable Systems</h3>
+<h3 align="center">Full Stack Development | AI Engineering | Web3 & Blockchain | Scalable Systems</h3>
 
 <p align="center">
-Driven by a strong inclination toward building robust, scalable, and impactful digital products, with a solid foundation in full stack development and an evolving focus on decentralized technologies. Dedicated to crafting end-to-end systems that prioritize performance, maintainability, and clean architectural patterns.
+A developer passionate about building scalable, reliable, and intelligent software systems. My foundation is in full-stack development, and I’m currently expanding my expertise in AI engineering, large language models, and Web3 technologies.
 </p>
 
 <p align="center">
-Experienced in developing modern web applications using React, Next.js, Node.js, Express, and MongoDB, with practical exposure to designing secure authentication mechanisms, building efficient RESTful APIs, and handling complex data workflows. Emphasis is placed on writing clean, modular code and creating systems that are both reliable and scalable.
+Current work spans include Python, FastAPI, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and REST APIs, with an emphasis on clean architecture, modular code, authentication, database design, and reliable backend systems.Also exploring the rapidly evolving AI/LLM ecosystem, building applications with LangChain, Google Gemini, Tavily, and FastAPI. I'm particularly interested in designing AI systems that can search, reason over information, orchestrate multiple components, and produce structured, useful outputs rather than simply generating text.
 </p>
 
 <p align="center">
-Currently advancing into the Web3 ecosystem—exploring blockchain fundamentals, smart contract development, and decentralized applications (dApps). Focused on understanding how decentralization enhances transparency, ownership, and trust within digital systems, while bridging traditional full stack practices with emerging paradigms.
+Alongside AI and full-stack development, I'm exploring Web3 and blockchain technologies, including blockchain fundamentals, smart contracts, decentralized applications, and the principles of transparency, ownership, and trust that underpin decentralized systems.
 </p>
 
 <p align="center">
-Committed to continuous growth through real-world project development, strengthening system design thinking, and staying aligned with cutting-edge technologies that define the future of software engineering.
+Have been working across the development lifecycle — from designing APIs and backend architectures to integrating AI services, managing databases, deploying applications, and setting up CI/CD workflows with GitHub Actions and platforms.
 </p>
 
 ---
