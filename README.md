@@ -46,7 +46,7 @@ Have been working across the development lifecycle — from designing APIs and b
 
 <div align="center">
   
-⚙️ <b>Strengthening backend architecture & APIs</b><br/>
+⚙️ <b>Exploring LLM integration, AI agents</b><br/>
 
 🚀 <b>Building scalable full stack applications</b><br/>
 
