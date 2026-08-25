@@ -30,11 +30,13 @@ Have been working across the development lifecycle — from designing APIs and b
 
 | **Domain** | **Key Technologies** |
 |------------|---------------------|
+| **AI & LLM Engineering** | Python, LangChain |
 | **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
-| **Backend & API Systems** | REST APIs, Authentication (JWT), Server Architecture |
+| **Backend & API Systems** | Python, FastAPI, REST APIs, JWT Authentication, Server Architecture |
 | **Database Architecture** | MongoDB, PostgreSQL, Data Persistence |
+| **Web3 & Blockchain** | Blockchain Fundamentals, Smart Contracts, dApps, Decentralized Systems |
 | **Scalable Systems** | System Design, Performance Optimization |
-| **Tools & Workflow** | Git, Postman, API Integration |
+| **Tools & Workflow** | Git, Postman, CI/CD, API Integration |
 
 </div>
 
